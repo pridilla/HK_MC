@@ -1,0 +1,27 @@
+[20:59:34] [User Authenticator #2/INFO]: UUID of player ridilla is a6447300-003a-3804-b4f4-b79af870e9a4
+[20:59:34] [Server thread/INFO]: ridilla joined the game
+[20:59:34] [Server thread/INFO]: ridilla[/90.64.139.215:63989] logged in with entity id 423 at ([world]98.89314850991197, 71.55808190615441, -3.7606857026551674)
+[21:02:21] [Server thread/INFO]: ridilla lost connection: Disconnected
+[21:02:21] [Server thread/INFO]: ridilla left the game
+[21:14:28] [Server thread/INFO]: Stopping server
+[21:14:28] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.7 (Phoenix)
+[21:14:28] [Server thread/WARN]: [GroupManager] Scheduled Data Saving is Disabled!
+[21:14:28] [Server thread/WARN]: [GroupManager] version 2.7 (Phoenix) is disabled!
+[21:14:28] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.1.0
+[21:14:28] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.18.1.0
+[21:14:28] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.18.1.0
+[21:14:28] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.1.0
+[21:14:28] [Server thread/INFO]: Saving players
+[21:14:28] [Server thread/INFO]: Saving worlds
+[21:14:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:14:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:14:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:14:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:14:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:14:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:14:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:14:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:14:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:14:29] [Server thread/INFO]: Flushing Chunk IO
+[21:14:29] [Server thread/INFO]: Closing Thread Pool
+[21:14:29] [Server thread/INFO]: Closing Server
